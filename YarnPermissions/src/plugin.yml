@@ -1,0 +1,9 @@
+main: me.yarnulv.permission.Main
+name: YarnPermissions
+version: 1.0
+author: yarnulv
+
+commands:
+  perm:
+    description: Manage Permissions
+    usage: /perm [add/rem/list] [Player] [Permission]
